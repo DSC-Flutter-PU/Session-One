@@ -1,3 +1,5 @@
+![CI](https://github.com/DSC-Flutter-PU/Session-One/workflows/CI/badge.svg)
+
 # Session One
 
 Flutter app created in the first class. A Simple instagram UI clone.
