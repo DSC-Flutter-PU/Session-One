@@ -1,6 +1,6 @@
-# sessionone
+# Session One
 
-A new Flutter project.
+Flutter app created in the first class. A Simple instagram UI clone.
 
 ## Getting Started
 
